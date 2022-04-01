@@ -25,6 +25,7 @@
 7. Ejecutar el siguiente comando:  
 
 	> Este comando nos cambia al directorio donde esta el Vagrantfile  
+	>  `Set-location <rutaDondeEstaVagrantFile>`
 
 <div align="center">
 	<img src="https://github.com/valentinbegnis/vagrant-tutorial/blob/main/ignorar/screen2.png"/>
